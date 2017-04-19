@@ -1,0 +1,7 @@
+XTArchiverUtils.xcodeproj/xcuserdata/
+XTArchiverUtils.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+XTArchiverUtils.xcodeproj/project.xcworkspace/xcuserdata/
